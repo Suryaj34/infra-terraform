@@ -1,0 +1,1415 @@
+# Copyright (C) 2026 WP Radiant
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecommerce Gadget Store 1.1.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ecommerce-gadget-store\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-02-10T14:49:07+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: ecommerce-gadget-store\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Ecommerce Gadget Store"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/products/free-gadget-store-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Ecommerce Gadget Store Theme is an ideal solution designed for online gadget shops and tech stores. Crafted for retailers specializing in ecommerce gadgets and electronic gadgets, this theme provides a sleek, modern platform to showcase the latest tech gadgets, smart gadgets, and innovative mobile accessories. Perfect for businesses that sell smartphone gadgets, smartwatch collections, gaming gadgets, or digital accessories, it offers robust WooCommerce integration for secure transactions and easy inventory management. Whether you run a gadget shop online, a smart device store, a mobile accessories ecommerce site, a global electronic store layout, or a tech gear showcase, this theme helps customers buy gadgets online with ease. Its design features high-resolution images, animated sliders, interactive product galleries, and a tech product gallery highlighting items like wireless earbuds, Bluetooth speakers, laptop accessories, smart home devices, power banks, USB gadgets, travel gadgets, VR/AR gadgets, and charging cables. Additionally, the theme supports responsive layouts, SEO optimization, and modern tech store design to boost search rankings, drive organic traffic, and provide a seamless shopping experience across desktops, tablets, and mobile devices. Ideal as a digital gadget website, gadget deals platform, or online electronics retailer, it also integrates the YITH WooCommerce Ajax Product Filter plugin for advanced product filtering and user-friendly search capabilities, helping customers find products quickly and efficiently. https://preview.wpradiant.net/ecommerce-gadget-store/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/footer-default.php:91
+msgid "WP Radiant"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/"
+msgstr ""
+
+#: get-started/getstart.php:8
+msgid "https://wordpress.org/support/theme/ecommerce-gadget-store/"
+msgstr ""
+
+#: get-started/getstart.php:9
+msgid "https://wordpress.org/support/theme/ecommerce-gadget-store/reviews/#new-post"
+msgstr ""
+
+#: get-started/getstart.php:10
+msgid "https://preview.wpradiant.net/tutorial/ecommerce-gadget-store-free/"
+msgstr ""
+
+#: get-started/getstart.php:11
+#: get-started/notice.php:3
+msgid "https://www.wpradiant.net/products/ecommerce-store-wordpress-theme"
+msgstr ""
+
+#: get-started/getstart.php:12
+msgid "https://preview.wpradiant.net/ecommerce-gadget-store/"
+msgstr ""
+
+#: get-started/getstart.php:13
+msgid "https://preview.wpradiant.net/tutorial/ecommerce-gadget-store-pro/"
+msgstr ""
+
+#: get-started/getstart.php:58
+msgid "Buy Now"
+msgstr ""
+
+#: get-started/getstart.php:61
+msgid "Demo"
+msgstr ""
+
+#: get-started/getstart.php:64
+msgid "Documentation"
+msgstr ""
+
+#: get-started/getstart.php:78
+msgid "Visit Site"
+msgstr ""
+
+#: get-started/getstart.php:88
+msgid "Secondary menu"
+msgstr ""
+
+#: get-started/getstart.php:89
+msgid "About"
+msgstr ""
+
+#: get-started/getstart.php:91
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:93
+msgid "Changelog"
+msgstr ""
+
+#: get-started/getstart.php:114
+msgid "Free Theme Directives"
+msgstr ""
+
+#: get-started/getstart.php:117
+msgid "This article will walk you through the different phases of setting up and handling your WordPress website."
+msgstr ""
+
+#: get-started/getstart.php:121
+#: get-started/notice.php:95
+msgid "Free Documentation"
+msgstr ""
+
+#: get-started/getstart.php:128
+msgid "Full Site Editing"
+msgstr ""
+
+#: get-started/getstart.php:131
+msgid "We have used Full Site Editing which will help you preview your changes live and fast."
+msgstr ""
+
+#: get-started/getstart.php:135
+msgid "Use Site Editor"
+msgstr ""
+
+#: get-started/getstart.php:142
+msgid "Leave us a review"
+msgstr ""
+
+#: get-started/getstart.php:144
+msgid "We would love to hear your feedback."
+msgstr ""
+
+#: get-started/getstart.php:148
+msgid "Review"
+msgstr ""
+
+#: get-started/getstart.php:156
+msgid "Help &amp; Support"
+msgstr ""
+
+#: get-started/getstart.php:159
+msgid "If you have any question/feedback regarding theme, please post in our official support forum."
+msgstr ""
+
+#: get-started/getstart.php:163
+msgid "Get Support"
+msgstr ""
+
+#: get-started/getstart.php:181
+msgid "Want to know whats been happening with the latest changes?"
+msgstr ""
+
+#: get-started/getstart.php:242
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:246
+msgid "Theme Features"
+msgstr ""
+
+#: get-started/getstart.php:247
+msgid "Free Theme"
+msgstr ""
+
+#: get-started/getstart.php:248
+msgid "Pro Theme"
+msgstr ""
+
+#: get-started/getstart.php:253
+msgid "Responsive Design"
+msgstr ""
+
+#: get-started/getstart.php:258
+msgid "Painless Setup"
+msgstr ""
+
+#: get-started/getstart.php:263
+msgid "Color Options"
+msgstr ""
+
+#: get-started/getstart.php:268
+msgid "Premium site demo"
+msgstr ""
+
+#: get-started/getstart.php:273
+msgid "Multiple Block Layout"
+msgstr ""
+
+#: get-started/getstart.php:278
+msgid "Premium Patterns"
+msgstr ""
+
+#: get-started/getstart.php:283
+msgid "Multiple Fonts"
+msgstr ""
+
+#: get-started/getstart.php:288
+msgid "Slider Block"
+msgstr ""
+
+#: get-started/getstart.php:293
+msgid "Post Listing Block"
+msgstr ""
+
+#: get-started/getstart.php:298
+msgid "WooCommerce Filter Block"
+msgstr ""
+
+#: get-started/getstart.php:303
+msgid "Gallery Block"
+msgstr ""
+
+#: get-started/getstart.php:308
+msgid "Post Carousel Block"
+msgstr ""
+
+#: get-started/getstart.php:315
+msgid "Buy It Now"
+msgstr ""
+
+#: get-started/notice.php:5
+msgid "https://www.wpradiant.net/products/wordpress-theme-bundle"
+msgstr ""
+
+#: get-started/notice.php:51
+msgid "Welcome to Ecommerce Gadget Store"
+msgstr ""
+
+#: get-started/notice.php:52
+msgid "Enhance Your Website Development with Radiant Blocks!!"
+msgstr ""
+
+#: get-started/notice.php:55
+msgid "Effortlessly craft websites for any niche with Radiant Blocks! Experience seamless functionality and stunning responsiveness as you enhance your digital presence with Block WordPress Themes. Start building your ideal website today!"
+msgstr ""
+
+#: get-started/notice.php:59
+msgid "Getting started"
+msgstr ""
+
+#: get-started/notice.php:91
+msgid "Buy Now "
+msgstr ""
+
+#: get-started/notice.php:93
+msgid "Get Bundle"
+msgstr ""
+
+#: inc/block-pattern.php:61
+msgid "Ecommerce Gadget Store Patterns"
+msgstr ""
+
+#: inc/block-style.php:28
+msgid "Borders"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Ecommerce Gadget Store Pro"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:400
+#: inc/tgm/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#: inc/tgm/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1042
+#: inc/tgm/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1243
+#: inc/tgm/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:63
+msgid "Stackable – Page Builder Gutenberg Blocks"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:68
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:73
+msgid "Translate WordPress with GTranslate"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:78
+msgid "WordClever – AI Content Writer"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:83
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: patterns/404-page.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:11
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:14
+msgid "404"
+msgstr ""
+
+#: patterns/404-page.php:18
+msgid "Unfortunately we can’t find that page."
+msgstr ""
+
+#: patterns/404-page.php:22
+msgid "The page you are looking for doesnt exist or has been moved. Try another url or go to the site homepage."
+msgstr ""
+
+#: patterns/about-us-section.php
+msgctxt "Pattern title"
+msgid "About Us Section"
+msgstr ""
+
+#: patterns/about-us-section.php:11
+msgid "About Us Section"
+msgstr ""
+
+#: patterns/about-us-section.php:41
+#: patterns/footer-default.php:17
+msgid "About Us"
+msgstr ""
+
+#: patterns/about-us-section.php:45
+msgid "We want to give you the best services"
+msgstr ""
+
+#: patterns/about-us-section.php:49
+#: patterns/faq-section.php:25
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+msgstr ""
+
+#: patterns/about-us-section.php:59
+msgid "Guaranteed Results"
+msgstr ""
+
+#: patterns/about-us-section.php:63
+#: patterns/about-us-section.php:77
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/about-us-section.php:73
+msgid "Quality Services"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid "Unbeatable Deals on"
+msgstr ""
+
+#: patterns/banner.php:27
+msgid "Trendy Products"
+msgstr ""
+
+#: patterns/banner.php:31
+msgid "Find the perfect products at unbeatable prices, handpicked just for you.s nisi ut aliquip ex ea commodo consequat."
+msgstr ""
+
+#: patterns/banner.php:36
+msgid "Explore more"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:17
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: patterns/faq-section.php:21
+msgid "Have Any Questions For Us?"
+msgstr ""
+
+#: patterns/faq-section.php:35
+msgid "What services does your agency offer?"
+msgstr ""
+
+#: patterns/faq-section.php:36
+#: patterns/faq-section.php:42
+#: patterns/faq-section.php:48
+#: patterns/faq-section.php:54
+#: patterns/faq-section.php:60
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/faq-section.php:41
+msgid "Who do you work with?"
+msgstr ""
+
+#: patterns/faq-section.php:47
+msgid "Do you offer customized marketing packages?"
+msgstr ""
+
+#: patterns/faq-section.php:53
+msgid "Can you help us improve our SEO rankings?"
+msgstr ""
+
+#: patterns/faq-section.php:59
+msgid "Do you manage social media accounts?"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:21
+msgid "We are passionate about bringing you innovative tech products that enhance your lifestyle."
+msgstr ""
+
+#: patterns/footer-default.php:37
+msgid "Shop"
+msgstr ""
+
+#: patterns/footer-default.php:53
+msgid " Policies"
+msgstr ""
+
+#: patterns/footer-default.php:69
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:73
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:77
+msgid "+1 (143) 456-7897"
+msgstr ""
+
+#: patterns/footer-default.php:81
+msgid "123 Glassford Street New York, USA"
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid "Gadget Store WordPress Theme"
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid " By "
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid " Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:11
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:39
+msgid "Free Shipping on Orders Over $50! Limited Time Offer"
+msgstr ""
+
+#: patterns/header-default.php:47
+msgid "Store Locator"
+msgstr ""
+
+#: patterns/header-default.php:51
+msgid "Track your Order"
+msgstr ""
+
+#: patterns/header-default.php:129
+msgid "Support:1-234-567-89"
+msgstr ""
+
+#: patterns/header-default.php:133
+msgid "info@exapmle.com"
+msgstr ""
+
+#: patterns/news-section.php
+msgctxt "Pattern title"
+msgid "News Section"
+msgstr ""
+
+#: patterns/news-section.php:11
+msgid "News Section"
+msgstr ""
+
+#: patterns/news-section.php:19
+msgid "News & Blogs"
+msgstr ""
+
+#: patterns/news-section.php:23
+msgid "Our Latest News & blogs"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Sidebar Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:55
+msgid "Archieve"
+msgstr ""
+
+#: patterns/primary-sidebar.php:67
+msgid "Category"
+msgstr ""
+
+#: patterns/primary-sidebar.php:79
+msgid "Pages"
+msgstr ""
+
+#: patterns/primary-sidebar.php:91
+msgid "Social"
+msgstr ""
+
+#: patterns/product-section.php
+msgctxt "Pattern title"
+msgid "Project Section"
+msgstr ""
+
+#: patterns/product-section.php:19
+#: patterns/product-section.php:143
+msgid "Product Section"
+msgstr ""
+
+#: patterns/product-section.php:40
+#: patterns/product-section.php:164
+msgid "Today’s Top Picks"
+msgstr ""
+
+#: patterns/product-section.php:46
+#: patterns/product-section.php:170
+msgid "View all"
+msgstr ""
+
+#: patterns/product-section.php:185
+#: patterns/product-section.php:227
+#: patterns/product-section.php:269
+msgid "Electronics"
+msgstr ""
+
+#: patterns/product-section.php:197
+msgid "Watch with different color (42mm)"
+msgstr ""
+
+#: patterns/product-section.php:203
+#: patterns/product-section.php:245
+#: patterns/product-section.php:287
+msgid "$450"
+msgstr ""
+
+#: patterns/product-section.php:210
+#: patterns/product-section.php:252
+#: patterns/product-section.php:294
+msgid "Add To Bag"
+msgstr ""
+
+#: patterns/product-section.php:239
+msgid "Headphones with dolby atmos sound"
+msgstr ""
+
+#: patterns/product-section.php:281
+msgid "Laptop with 4k uhd display (120hrtz)"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search Page"
+msgstr ""
+
+#: patterns/search.php:11
+msgid "Search Page"
+msgstr ""
+
+#: patterns/search.php:42
+msgid "No results found"
+msgstr ""
+
+#: patterns/search.php:46
+msgid "We could not find any posts matching your search. Try different keywords."
+msgstr ""
+
+#: patterns/testimonials-section.php
+msgctxt "Pattern title"
+msgid "Testimonials Section"
+msgstr ""
+
+#: patterns/testimonials-section.php:11
+msgid "Testimonials Section"
+msgstr ""
+
+#: patterns/testimonials-section.php:23
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials-section.php:27
+msgid "What Say Clients"
+msgstr ""
+
+#: patterns/testimonials-section.php:48
+#: patterns/testimonials-section.php:62
+#: patterns/testimonials-section.php:76
+#: patterns/testimonials-section.php:90
+#: patterns/testimonials-section.php:104
+#: patterns/testimonials-section.php:118
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/testimonials-section.php:52
+#: patterns/testimonials-section.php:122
+msgid "Jean Kalvin"
+msgstr ""
+
+#: patterns/testimonials-section.php:56
+msgid "Manager"
+msgstr ""
+
+#: patterns/testimonials-section.php:66
+msgid "Alex Morgan"
+msgstr ""
+
+#: patterns/testimonials-section.php:70
+#: patterns/testimonials-section.php:126
+msgid "CEO"
+msgstr ""
+
+#: patterns/testimonials-section.php:80
+msgid "Jordan Blake"
+msgstr ""
+
+#: patterns/testimonials-section.php:84
+msgid "Director"
+msgstr ""
+
+#: patterns/testimonials-section.php:94
+msgid "Taylor Reed"
+msgstr ""
+
+#: patterns/testimonials-section.php:98
+msgid "Product Manager"
+msgstr ""
+
+#: patterns/testimonials-section.php:108
+msgid "Casey Bennett"
+msgstr ""
+
+#: patterns/testimonials-section.php:112
+msgid "Operations Manager"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Thirdaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourthaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secbackground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark-green.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr ""
+
+#: styles/dark-green.json
+msgctxt "Style variation name"
+msgid "Dark-green"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar Products"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Code Pro"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""

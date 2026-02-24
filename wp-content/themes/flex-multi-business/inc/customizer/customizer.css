@@ -1,0 +1,43 @@
+.control-section-law-office h3.accordion-section-title {
+    line-height: 30px;
+  }
+  #customize-theme-controls .control-panel-themes>.accordion-section-title, 
+  #customize-theme-controls .control-panel-themes>.accordion-section-title:hover{
+    margin: 0;
+  }
+  .control-section-law-office h3.accordion-section-title a{
+    float: right;
+  }
+  #accordion-section-flex_multi_business_upgrade_pro h3 a{
+    background:#2271b1 ;
+    border-color: #2271b1;
+    outline-color:#2271b1 !important;
+  }
+  #accordion-section-flex_multi_business_upgrade_pro h3 {
+    color: #50575e !important;
+    background-color: #fff !important;
+  }
+  #accordion-section-flex_multi_business_upgrade_pro h3 a:hover{
+    background: #074b82;
+    border-color: #074b82;
+    outline-color:#074b82!important;
+  }
+  input#_customize-input-logo_size{
+    width: 100%;
+  }
+  #customize-controls .customize-pane-parent{
+    overflow-x: hidden;
+  }
+  #customize-theme-controls .accordion-section-title:has(a):after{
+    display: none !important;
+  }
+  .accordion-section-title button.accordion-trigger{
+    height: auto !important;
+  }
+  #accordion-section-flex_multi_business_upgrade_pro{
+    display: block !important;
+  }
+  #accordion-section-flex_multi_business_upgrade_pro .accordion-section-title{
+    display: flex;
+    justify-content: space-between;
+  }

@@ -1,0 +1,34 @@
+2026-02-18T09:40:15+00:00 DEBUG #6452 - [New Request] GET /wp-admin/admin.php
+2026-02-18T09:40:15+00:00 DEBUG #6452 - GET https://api.woocommerce.com/integrations/ppc/v1/customer/partners/K8SKZ36LQBWXJ/merchant-integrations/
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-02-18T09:40:15+00:00 WARNING #6452 - [Error] Not Found CONTEXT: {"args":{"method":"GET","headers":{"Authorization":"Bearer token","Content-Type":"application/json"}},"response":{"headers":{},"body":"{"statusCode":404,"error":"Not Found","message":"Not Found"}","response":{"code":404,"message":"Not Found"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}}
+2026-02-18T11:51:15+00:00 DEBUG #6093 - [New Request] GET /wp-admin/admin.php
+2026-02-18T11:51:15+00:00 DEBUG #6093 - GET https://api.woocommerce.com/integrations/ppc/v1/customer/partners/K8SKZ36LQBWXJ/merchant-integrations/
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-02-18T11:51:15+00:00 WARNING #6093 - [Error] Not Found CONTEXT: {"args":{"method":"GET","headers":{"Authorization":"Bearer token","Content-Type":"application/json"}},"response":{"headers":{},"body":"{"statusCode":404,"error":"Not Found","message":"Not Found"}","response":{"code":404,"message":"Not Found"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}}
+2026-02-18T12:18:55+00:00 DEBUG #8697 - [New Request] POST /wp-admin/plugins.php
+2026-02-18T12:18:55+00:00 DEBUG #8697 - Webhook lock acquired for 'unregister'.
+2026-02-18T12:18:55+00:00 DEBUG #8697 - Webhook operation 'unregister' started.
+2026-02-18T12:18:55+00:00 DEBUG #8697 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-02-18T12:18:55+00:00 ERROR #8697 - Failed to delete webhooks: [Error] Not Found
+2026-02-18T12:18:55+00:00 INFO #8697 - Webhooks deleted.
+2026-02-18T12:18:55+00:00 DEBUG #8697 - Webhook lock released for 'unregister'.

@@ -1,0 +1,1 @@
+<div class="ec_admin_settings_input ec_admin_settings_live_payment_section ec_admin_settings_<?php if( get_option('ec_option_payment_process_method') == "custom" ){ ?>show<?php }else{?>hide<?php }?>" id="custom"></div>

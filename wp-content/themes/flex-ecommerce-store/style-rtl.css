@@ -1,0 +1,251 @@
+/*=======================
+   RTL CSS
+======================= */
+
+:root {
+    --primary-theme-color: #3D7AFF !important;
+}
+body{
+	font-family: "Inter", sans-serif;
+}
+.header-two,.read-more a,.widget_block .wp-block-search .wp-block-search__button, .page-content .search-form .search-submit, .widget_search .search-form .search-submit,#c-scroll:hover,.footer-one,.pagination .page-numbers:hover, .pagination .current{
+	background: var(--primary-theme-color);
+}
+
+.wp-block-calendar .wp-calendar-table tbody tr td#today, .widget_calendar .calendar_wrap .wp-calendar-table tbody tr td#today, .search-form .search-submit,.widget_block .wp-block-tag-cloud a:hover, .widget_tag_cloud .tagcloud a:hover{
+	background-color:  var(--primary-theme-color) !important;
+}
+
+.widget_block .wp-block-search .wp-block-search__button,.main-navigation .menu .children .page_item > a::before, .main-navigation .menu .dropdown-menu .menu-item > a::before,.comments-area .form-submit .submit{
+	background:  var(--primary-theme-color) !important;
+}
+
+.blog-2 .post-meta {
+	background: hsl(221.13deg 100% 50% / 27%) 100% 0%;
+}
+
+.read-more a{
+	outline-color:  var(--primary-theme-color);
+}
+
+.pagination .page-numbers, .pagination .current{
+	border-color:  var(--primary-theme-color);
+}
+
+.comments-area .comment-form-comment textarea:focus, .comments-area .comment-form-comment textarea:hover,.widget_block .wp-block-tag-cloud a:hover, .widget_tag_cloud .tagcloud a:hover{
+	border-color:  var(--primary-theme-color) !important;
+}
+
+.read-more a:hover,a:hover, a:active,#primary-menu .current-menu-item a,h5 a:hover, h6 a:hover,.post-meta li a:hover,.post-tags a:hover{
+	color:  var(--primary-theme-color);
+}
+
+#primary-menu .menu-item:hover .nav-link,.main-navigation .menu .children .page_item:hover>a, .main-navigation .menu .dropdown-menu .menu-item:hover>a{
+	color:  var(--primary-theme-color) !important;
+}
+
+.main-navbar{
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.ac-btn:hover, input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, button:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce input[type=submit].button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #respond input#submit.disabled, .woocommerce #respond input#submit:disabled, .woocommerce #respond input#submit:disabled[disabled], .woocommerce a.button.disabled, .woocommerce a.button:disabled, .woocommerce a.button:disabled[disabled], .woocommerce button.button.disabled, .woocommerce button.button:disabled, .woocommerce button.button:disabled[disabled], .woocommerce input.button.disabled, .woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce #respond input#submit.disabled:hover, .woocommerce #respond input#submit:disabled:hover, .woocommerce #respond input#submit:disabled[disabled]:hover, .woocommerce a.button.disabled:hover, .woocommerce a.button:disabled:hover, .woocommerce a.button:disabled[disabled]:hover, .woocommerce button.button.disabled:hover, .woocommerce button.button:disabled:hover, .woocommerce button.button:disabled[disabled]:hover, .woocommerce input.button.disabled:hover, .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt:disabled[disabled], .woocommerce #respond input#submit.alt:disabled[disabled]:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt:disabled[disabled], .woocommerce a.button.alt:disabled[disabled]:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt:disabled[disabled], .woocommerce button.button.alt:disabled[disabled]:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt:disabled[disabled], .woocommerce input.button.alt:disabled[disabled]:hover {
+    background-color:  var(--primary-theme-color) !important;
+    color: #ffffff;
+}
+#page #primary-menu a.nav-link,
+#page #primary-menu li:hover a.nav-link ,
+#page #primary-menu li{
+	color: #fff !important;
+}
+/* Home Page CSS Free */
+.ekit-wid-con .elementskit-post-image-card .elementskit-entry-header .elementskit-entry-thumb>img,
+.ekit-wid-con .elementskit-post-image-card:hover .elementskit-entry-thumb>img {
+    -webkit-transition: none !important;
+    transition:  none !important;
+    width: 100%;
+	transform: none !important;
+}
+.category-products-widget .woocommerce-Price-amount.amount{
+	color:  #000 !important;
+}
+.category-products-widget .star-rating span::before {
+	color: #FFBB00 !important;
+}
+.hfe-search-button-wrapper{
+	margin-bottom: 0px;
+}
+.footer-copyright a:hover{
+	color: #fff;
+}
+.product-image img{
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: contain;
+}
+.product-category .wl-row.wlno-gutters .wl-col-1:last-child .wlsingle-categorie{
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.header-primary-menu .elementor-icon:hover svg{
+	fill: var(--primary-theme-color) !important;
+}
+.category-products-widget .price{
+	width: 50%;
+    float: right;
+}
+.category-products-widget .rating{
+	width: 48%;
+    float: left;
+    margin-top: 16px;
+	text-align: left;
+}
+.category-products-widget .rating .single-star{
+	color: #FFBB00;
+    font-size: 15px;
+}
+.product-category .wlsingle-categorie{
+	padding: 5px !important;
+}
+.product-category .wlsingle-categorie .wlcategorie-content h4 {
+	margin: 0px !important;
+	font-weight: 500;
+}
+.product-category .wlsingle-categorie .wlcategorie-content{
+	padding: 8px;
+	border-radius: 6px;
+}
+.product-category .wlsingle-categorie .wlcategorie-content:hover{
+	background-color: var(--primary-theme-color);
+	color: #fff !important;
+}
+.product-category .wlsingle-categorie .wlcategorie-content:hover a{
+	color: #fff !important;
+}
+.home .ecommerce-banner-slider .slick-slide{
+	padding: 0px !important;
+	display: block !important;
+}
+.home .ecommerce-banner-slider .slick-slide > div > .elementor-element{
+	padding: 50px;
+	display: flex !important;
+}
+.elementskit-post-body {
+	display: flex;
+	flex-direction: column-reverse;
+}
+.category-products-widget .product:hover{
+	background-color: var(--primary-theme-color);
+}
+.category-products-widget .product:hover div , 
+.category-products-widget .product:hover a,
+.category-products-widget .product:hover span,
+.category-products-widget .product:hover h3{
+	color: #fff !important;
+}
+.blog-section1 .elementskit-post-image-card:hover .elementskit-entry-thumb img{
+	transform: scale(0.99) !important;
+}
+.home .category-products-widget .product:hover .hover-buttons{
+	display: flex !important;
+}
+.home .category-products-widget .yith-wcwl-add-to-wishlist-button:not(.yith-wcwl-add-to-wishlist-button--themed-button) svg.yith-wcwl-add-to-wishlist-button-icon {
+    color: #ffffff !important;
+}
+.home .product .product-inner .add_to_cart_button.added {
+    display: flex !important;
+}
+.home .product .product-inner .added_to_cart{
+	display: none;
+}
+.home .product .product-inner .add_to_cart_button::after,
+.home .product .product-inner .add-to-cart-message .view-cart-link{
+	display: none;
+}
+.home .product .product-inner .add-to-cart-message{
+	position: absolute;
+	background-color: #fff;
+	color: #000;
+	top: 50%;
+	right: 50%;
+	transform: translate(50%);
+}
+.home .product .product-inner .add-to-cart-message p{
+	color: #000;
+}
+.shopengine-quickview-trigger,
+.shopengine_comparison_add_to_list_action ,
+.shopengine-wishlist{
+	display: none;
+}
+.home .ekit-wid-con .post-meta-list>span:not(:last-child) {
+    margin-left: 5px;
+}
+.post-meta-list{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.home-contact-section .elementor-icon-box-wrapper{
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+.home-contact-section .elementor-icon-box-icon {
+	height: max-content;
+	line-height: 16px;
+}
+.home-contact-section .elementor-icon-box-description{
+	margin-bottom: 0px !important;
+}
+.home-contact-section .elementor-icon-box-title{
+	margin-bottom: 5px!important;
+}
+
+@media screen and (max-width:767px){
+	.footer-box-col .menu-item a{
+		justify-self: center;
+	}
+	.deal-of-the-day > .e-con-inner > div.elementor-element:nth-child(2){
+		width: 300px !important;
+	}
+	.deal-of-the-day > .e-con-inner{
+		justify-content: center !important;
+		align-items: center !important;
+		text-align: center;
+	}
+	.home-contact-section .elementor-icon-box-wrapper {
+		display: flex;
+		gap: 10px;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.home-contact-section .elementor-icon-box-content h3 ,
+	.home-contact-section .elementor-icon-box-content p{
+		text-align: center;
+	}
+}
+@media (min-width:1025px) and (max-width:1400px){
+	.top-header > .e-con-inner > div.elementor-element:nth-child(1){
+		--width: 40% !important;
+	}
+	.top-header > .e-con-inner > div.elementor-element:nth-child(2){
+		--width: 50% !important;
+	}
+}
+@media screen and (min-width:768px){
+	.deal-of-the-day > .e-con-inner > div.elementor-element:nth-child(1){
+		--width: calc(100% - 300px) !important;
+	}
+}
+@media (min-width:768px) and (max-width:999px){
+	.woocommerce.single-product div.product div.summary{
+		width: 50%;
+	}
+	.woocommerce.single-product div.product div.images .woocommerce-product-gallery__wrapper{
+		width: 48%;
+		float: right !important;
+	}
+}

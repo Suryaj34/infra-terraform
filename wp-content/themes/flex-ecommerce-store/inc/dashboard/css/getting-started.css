@@ -1,0 +1,221 @@
+
+.getting-started .action-inner, .tab-outer-box-container {
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.32) 0px 0px 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 4px;
+    padding: 40px;
+    gap: 17px;
+}
+.flex-main-container{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.flex-main-container img{
+	width: 95%;
+}
+.flex-inner-box img{
+	box-shadow: 0px 0px 15px #00000073;
+	border: 1px solid #707070;
+}
+.flex-inner-content h3{
+	text-align: center;
+	font-size: 26px;
+	font-weight: 600;
+	line-height: 40px;
+	color: #111111;
+	font-family: "Noto Sans", sans-serif;
+	opacity: 1;
+	margin-bottom: 0px;
+}
+.flex-inner-content .start-text,
+.flex-inner-content .about-text{
+	font: normal normal normal 18px/24px Segoe UI;
+	letter-spacing: 0px;
+	color: #111111;
+	text-align: center;
+}
+
+/* Getstarted notice  */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+ .notice-getstarted-flex .notice-button a{
+	background: #008BB7 !important;
+    border-radius: 3px;
+    color: #fff !important;
+    padding: 3px 39px !important;
+    border: 1px solid #008BB7 !important;
+    text-transform: capitalize;
+    font-family: "Noto Sans", sans-serif;
+    margin: 0px !important;
+    font-weight: 600;
+    font-size: 13px;
+ }
+ .notice-getstarted-flex .notice-button{
+	 margin: 13px 0px;
+	 display: flex;
+	 flex-wrap: wrap;
+	 gap: 10px;
+	 align-content: center;
+	 justify-content: center;
+	 align-items: center;
+ }
+  .notice-getstarted-flex .notice-button a:hover ,
+  .notice-getstarted-flex .notice-button a:active{
+	 color: #008BB7 !important;
+	 background-color: #fff !important;
+ }
+ .inner-notice{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+ }
+.notice.notice-getstarted-flex{
+	border-left-color: #FFAA00 !important;
+}
+.inner-content h2{
+    color: #111111;
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: 600;
+    margin: 15px auto;
+	font-family: "Noto Sans", sans-serif;
+}
+.info-link{
+	display: flex;
+	gap: 10px;
+	justify-content: center;
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+}
+.info-link .button{
+	border-radius: 7px;
+    color: #fff;
+    background: #000;
+    padding: 3px 35px;
+	border: none;
+	text-transform: capitalize;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.info-link .button:hover{
+	background: linear-gradient(270deg, #4C5CAA 0%, #9C77B5 100%);
+	color: #fff;
+}
+@media screen and (max-width: 1300px){
+	.flex-main-container{
+		display: grid;
+		grid-template-columns:100%;
+	}
+}
+/* Getstarted notice  */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.notice-getstarted-flex{
+    background: linear-gradient(270deg, #485BA9 0%, #9E77B5 100%);
+	padding: 0px !important;
+}
+.inner-notice{
+	position: relative;
+	padding: 5px 150px 5px 150px;
+    display: flex;
+    flex-wrap: wrap;
+	align-items: center;
+    align-content: center;
+}
+.inner-notice::before{
+    content: "";
+   background-image: url("../images/notice-left.png");
+   left: 0;
+   top: 0;
+   position: absolute;
+   height: 100%;
+   background-size: 100% 100%;
+   width: 125px;
+   background-repeat: no-repeat;
+}
+.inner-notice::after{
+    content: "";
+   background-image: url("../images/notice-right.png");
+   right: 0;
+   top: 0;
+   position: absolute;
+   height: 100%;
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 125px;
+}
+.inner-content{
+	text-align: center;
+	width: calc(100% - 370px);
+}
+.notice-getstarted-flex .notice-dismiss::before{
+	font-size: 20px !important;
+	color: #fff !important;
+}
+.notice-getstarted-flex h2 {
+    text-align: center;
+    font-size: 27px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    line-height: 35px;
+    margin: 10px;
+	font-family: "Noto Sans", sans-serif;
+}
+.notice-getstarted-flex p{
+	text-align: center;
+	font-size: 17px;
+	letter-spacing: 0px;
+	color: #ffffffd0;
+	font-family: "Noto Sans", sans-serif;
+}
+.wp-core-ui .inner-content a{
+	background: #000000 !important;
+	border-radius: 7px !important;
+	color: #fff !important;
+	padding: 2px 25px !important;
+	border: none !important;
+	text-transform: capitalize;
+	font-family: "Noto Sans", sans-serif;
+	margin: 0px !important;
+    font-weight: 600;
+}
+.notice-button{
+	margin: 13px 0px;
+	display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-content: center;
+    justify-content: center;
+	align-items: center;
+}
+.inner-content a:hover ,
+.inner-content a:active{
+	color: #000 !important;
+	background-color: #fff !important;
+}
+.inner-notice img{
+	max-width: 370px;
+	object-fit: contain;
+}
+.notice-getstarted-flex{
+	border: 0px solid #000 ;
+    border-left-width: 6px;
+}
+@media screen and (max-width: 1300px){
+	.inner-content {
+		width: 100%;
+	}
+	.inner-notice img {
+		max-width: 100%;
+	}
+	.inner-notice::before,.inner-notice::after{
+		display: none;
+	}
+	.inner-notice{
+		justify-content: center;
+	}
+}

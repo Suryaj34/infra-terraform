@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%1]
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^(.*)/wp-easycart/inc/amfphp/(.*) /$1/wp-easycart-pro/inc/amfphp/$2 [QSA,L]
+RewriteRule ^(.*)/paypal_webhook.php /?wpeasycarthook=paypal-webhook [QSA,L]
+RewriteRule ^(.*)/print_giftcard.php?(.*) /?wpeasycarthook=print-giftcard&$2 [QSA,L]
+RewriteRule ^(.*)/redsys_success.php /?wpeasycarthook=redsys-webhook [QSA,L]
+RewriteRule ^(.*)/sagepay_paynow_za_payment_complete.php /?wpeasycarthook=sagepay-webhook [QSA,L]
+RewriteRule ^(.*)/stripe_webhook.php /?wpeasycarthook=stripe-webhook [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
